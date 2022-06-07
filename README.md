@@ -1,16 +1,15 @@
 # baleart
 
-A new Flutter project.
+Pràctica final. Curs Flutter.
 
-## Getting Started
+## L'Aplicació.
 
-This project is a starting point for a Flutter application.
+L'aplicació fa servir una api feta a classe.
+Fa un login.
+Si la validació es correcta accedeix a una pàgina que visualitza una llista d'establiments.
+Seleccionant un establiment podem veure el detall d'aques.
+Les credencials correctes es guarden amb shared preferences.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Dades acces:
+Usuari: mariaarbona45@gmail.com
+password: 12345678
